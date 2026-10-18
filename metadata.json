@@ -1,0 +1,6 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY - Free Premium Education, Video Lectures, Notes, DPPs and Batches for Class 7-12, CUET, NEET and Olympiad preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

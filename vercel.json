@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://nt.studybeepro.site/api/:path*"
+    },
+    {
+      "source": "/vc/:path*",
+      "destination": "https://nt.studybeepro.site/vc/:path*"
+    },
+    {
+      "source": "/batches.json",
+      "destination": "https://nt.studybeepro.site/batches.json"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
